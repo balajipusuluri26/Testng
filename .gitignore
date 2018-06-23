@@ -1,0 +1,36 @@
+/TestNG -base/.classpath
+/TestNG -base/.gitignore
+/TestNG -base/.project
+/TestNG -base/.settings/org.eclipse.core.resources.prefs
+/TestNG -base/.settings/org.eclipse.jdt.core.prefs
+/TestNG -base/.settings/org.eclipse.m2e.core.prefs
+/TestNG -base/test-output/Default suite/Default test.html
+/TestNG -base/test-output/Default suite/Default test.xml
+/TestNG -base/test-output/Default suite/testng-failed.xml
+/TestNG -base/test-output/bullet_point.png
+/TestNG -base/test-output/collapseall.gif
+/TestNG -base/test-output/emailable-report.html
+/TestNG -base/test-output/failed.png
+/TestNG -base/test-output/index.html
+/TestNG -base/test-output/jquery-1.7.1.min.js
+/TestNG -base/test-output/junitreports/TEST-com.mycompany.NewTest.xml
+/TestNG -base/test-output/navigator-bullet.png
+/TestNG -base/test-output/old/Default suite/Default test.properties
+/TestNG -base/test-output/old/Default suite/classes.html
+/TestNG -base/test-output/old/Default suite/groups.html
+/TestNG -base/test-output/old/Default suite/index.html
+/TestNG -base/test-output/old/Default suite/main.html
+/TestNG -base/test-output/old/Default suite/methods-alphabetical.html
+/TestNG -base/test-output/old/Default suite/methods-not-run.html
+/TestNG -base/test-output/old/Default suite/methods.html
+/TestNG -base/test-output/old/Default suite/reporter-output.html
+/TestNG -base/test-output/old/Default suite/testng.xml.html
+/TestNG -base/test-output/old/Default suite/toc.html
+/TestNG -base/test-output/old/index.html
+/TestNG -base/test-output/passed.png
+/TestNG -base/test-output/skipped.png
+/TestNG -base/test-output/testng-failed.xml
+/TestNG -base/test-output/testng-reports.css
+/TestNG -base/test-output/testng-reports.js
+/TestNG -base/test-output/testng-results.xml
+/TestNG -base/test-output/testng.css
